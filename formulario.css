@@ -1,0 +1,35 @@
+div {
+    background-color: rgb(249, 242, 242);
+}
+
+label {
+    background-color: rgb(249, 242, 242);
+}
+
+
+fieldset {
+  fieldset {
+  width: 90%;
+  max-width: 50px;
+  margin: auto;
+  box-sizing: border-box;
+}
+}
+
+fieldset {
+    margin: 5px;
+    margin-right: 5px;
+    background-color: rgb(31, 100, 229);
+}
+
+label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+input, select {
+    width: 50%;
+    padding: 8px;
+    box-sizing: border-radius;
+    margin-bottom: 8px;
+}
